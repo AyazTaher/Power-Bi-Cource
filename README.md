@@ -31,14 +31,14 @@
 
 | # | الوحدة | المحتوى | الرابط |
 |---|--------|----------|--------|
-| 0️⃣ | **مقدمة الكورس** | نظرة عامة على Power BI وعائلة منتجاته وبيانات الكورس | — |
-| 1️⃣ | **مقدمة إلى Power BI** | التعرف على البرنامج، مميزاته، ومنتجاته | [▶️ شاهد](https://youtu.be/MNTE8Y-0NxA) |
-| 2️⃣ | **الاتصال بمصادر البيانات** | إنشاء التقارير التفاعلية والنشر على Power BI Online | [▶️ شاهد](https://youtu.be/WGFCRGrMYCw) |
-| 3️⃣ | **المخططات الأساسية** | استكشاف المرئيات وتنسيقها وتحليل البيانات | [▶️ شاهد](https://youtu.be/2lfyfORGt6k) |
-| 4️⃣ | **المخططات المتقدمة** | التسلسلات الهرمية، الخرائط، الجداول، مخطط الشلال | [▶️ شاهد](https://youtu.be/FlaPym1gtz4) |
-| 5️⃣ | **Power BI Online** | نشر التقارير على الإنترنت وإنشاء لوحات المعلومات | قريباً |
-| 6️⃣ | **Query Editor** | تنظيف البيانات وتحويلها قبل التحليل | قريباً |
-| 7️⃣ | **لغة DAX** | المعادلات التجميعية والمنطقية وتحليل البيانات المتقدم | قريباً |
+
+| الوحدة 1 | https://youtu.be/MNTE8Y-0NxA |
+| الوحدة 2 | https://youtu.be/WGFCRGrMYCw |
+| الوحدة 3 | https://youtu.be/2lfyfORGt6k |
+| الوحدة 4 | https://youtu.be/FlaPym1gtz4 |
+| الوحدة 5 | https://youtu.be/FJoFdz8TBt4 |
+| الوحدة 6 | https://youtu.be/zyAbVcGgZf0 |
+| الوحدة 7 | https://youtu.be/qCh0-yVOoKw |
 
 ---
 
@@ -104,10 +104,14 @@
 
 | الوحدة | الرابط المباشر |
 |--------|---------------|
+
 | الوحدة 1 | https://youtu.be/MNTE8Y-0NxA |
 | الوحدة 2 | https://youtu.be/WGFCRGrMYCw |
 | الوحدة 3 | https://youtu.be/2lfyfORGt6k |
 | الوحدة 4 | https://youtu.be/FlaPym1gtz4 |
+| الوحدة 5 | https://youtu.be/FJoFdz8TBt4 |
+| الوحدة 6 | https://youtu.be/zyAbVcGgZf0 |
+| الوحدة 7 | https://youtu.be/qCh0-yVOoKw |
 
 ---
 
